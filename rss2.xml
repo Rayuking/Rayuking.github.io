@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Zero的个人网站</title>
+    <link>https://zerolei.com/</link>
+    <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>慢慢被锤骟,偶尔哼哧几句</description>
+    <pubDate>Mon, 14 May 2018 16:01:45 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>博客</title>
+      <link>https://zerolei.com/2017/08/14/%E5%8D%9A%E5%AE%A2/</link>
+      <guid>https://zerolei.com/2017/08/14/%E5%8D%9A%E5%AE%A2/</guid>
+      <pubDate>Mon, 14 Aug 2017 14:54:14 GMT</pubDate>
+      <description>
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;h1 id=&quot;160-160-160-160-160-160-160-博客：https-zerolei-com-blog&quot;&gt;&lt;a href=&quot;#160-160-160-160-160-160-160-博客：https-zerolei-com-blog&quot;
+        
+      
+      </description>
+      
+      <content:encoded><![CDATA[<blockquote><h1 id="160-160-160-160-160-160-160-博客：https-zerolei-com-blog"><a href="#160-160-160-160-160-160-160-博客：https-zerolei-com-blog" class="headerlink" title="&#160;&#160;&#160;&#160;&#160;&#160;&#160;博客：https://zerolei.com/blog"></a>&#160;&#160;&#160;&#160;&#160;&#160;&#160;<center>博客：<a href="https://zerolei.com/blog">https://zerolei.com/blog</a></center></h1></blockquote><hr><blockquote><h1 id="160-160-160-160-160-160-160-博客测试版-https-zerolei-com-myhexo"><a href="#160-160-160-160-160-160-160-博客测试版-https-zerolei-com-myhexo" class="headerlink" title="&#160;&#160;&#160;&#160;&#160;&#160;&#160;博客测试版:https://zerolei.com/myhexo"></a>&#160;&#160;&#160;&#160;&#160;&#160;&#160;<center>博客测试版:<a href="https://zerolei.com/myhexo">https://zerolei.com/myhexo</a></center></h1></blockquote>]]></content:encoded>
+      
+      <comments>https://zerolei.com/2017/08/14/%E5%8D%9A%E5%AE%A2/#disqus_thread</comments>
+    </item>
+    
+  </channel>
+</rss>
